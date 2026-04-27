@@ -100,19 +100,10 @@ Species distributions are constrained by climate, but **geography limits their a
 
 ---
 
-## 📦 Reproducibility
-
-This project uses **R + renv** for reproducible environments:
-
-```r
-renv::restore()
-```
-
----
 
 ## 📜 License
 
-MIT License — free to use, modify, and build upon.
+GLP v. 3 — free to use, modify, and build upon.
 
 ---
 
@@ -134,7 +125,7 @@ Climate cul-de-sacs identify regions where:
 
 If you use this code or framework, please cite:
 
-> *Author(s). Climate cul-de-sacs: constrained range shifts under climate change. (in prep)*
+> *Giménez, A., González, B., Martin, G.Climate cul-de-sacs: constrained range shifts under climate change. (Submitted - April 2026)*
 
 ---
 
