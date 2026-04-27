@@ -1,5 +1,6 @@
 ![cover_image](cover_image.png)
 
+Cover image created with ChatGPT 5.3
 # 🌍 Climate Cul-de-Sacs  
 **Modeling constrained range shifts under climate change**
 
