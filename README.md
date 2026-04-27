@@ -1,3 +1,5 @@
+![cover_image](cover_image.png)
+
 # 🌍 Climate Cul-de-Sacs  
 **Modeling constrained range shifts under climate change**
 
