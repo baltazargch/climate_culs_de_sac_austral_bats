@@ -26,8 +26,8 @@ We test this by tracking **suitability-weighted centroids** through time and eva
 ---
 
 ## 🗺️ Example: Climate cul-de-sac dynamics
+![simple_shift](9b9686a6-dce8-4f2c-9acb-cc79133b42bd.jpeg)
 
-(Insert your figure here)
 
 **Interpretation:**
 - Black star = historical centroid (baseline)
