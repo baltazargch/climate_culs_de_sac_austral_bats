@@ -57,7 +57,7 @@ The pipeline follows a fully reproducible SDM framework:
    - Bias-aware background selection
 
 3. **Model evaluation**
-   - AUC, PR AUC, F1, Kappa
+   - AUC, AIC, orMTP, Visual evaluation of biological realism.
 
 4. **Projection**
    - Future climates (SSP245, SSP370, SSP585)
@@ -70,20 +70,15 @@ The pipeline follows a fully reproducible SDM framework:
 
 6. **Cul-de-sac metrics**
    - Directional displacement
-   - Spatial concentration
-   - Proximity to geographic limits
+   - Spatial concentration (area metrics)
+   - Proximity to geographic limits (characterization)
 
 ---
 
 ## 📁 Repository structure
 
 ```
-scripts/        # ordered analysis workflow
-R/              # reusable functions
-data/           # raw + processed (not tracked)
-outputs/        # maps, tables, figures
-docs/           # metadata and notes
-manuscript/     # text and figures for paper
+R/              # reusable functions to reproduce the worflow. All input data is downloadable from the sources cited in the paper. 
 ```
 
 ---
