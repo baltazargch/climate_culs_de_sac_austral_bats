@@ -132,5 +132,4 @@ If you use this code or framework, please cite:
 ## 🚀 Next steps
 
 - Integrate dispersal constraints  
-- Add hazard overlays (heatwaves, fire)  
 - Expand to multi-species or community-level dynamics  
